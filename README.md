@@ -22,7 +22,7 @@
 
 ### TODO
 
-  1. collect more training data
+  1. collect more training data (for now trained only on 20 images)
   2. add documentation
   
 ### references

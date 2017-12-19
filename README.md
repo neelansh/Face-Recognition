@@ -1,9 +1,4 @@
 # Face-Recognition (narendra modi or arvind kejriwal)
-<html>
-  <body>
-    <h2>hello</h2>
-   </body>
-</html>
 
 
 

@@ -29,4 +29,4 @@ def index():
 	    return render_template('index.html', num_faces = num_faces, faces= faces, file_name=file.filename);
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host="139.59.65.228")

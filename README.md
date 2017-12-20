@@ -1,6 +1,6 @@
 # Face-Recognition (narendra modi or arvind kejriwal)
 
-##Face Recognition Pipeline
+## Face Recognition Pipeline
 
 <h4>Step 1: Detect faces</h4>
 <p>Faces are detected using current state of the art HOG(Histogram of oriented gradients) using Dlib and opencv for image processing. 

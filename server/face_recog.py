@@ -12,7 +12,7 @@ from tensorflow.python.platform import gfile
 from scipy import misc
 
 def recog_face_openface(file_path, output_path, classifier):
-    img = cv2.imread(file_path);
+    img = cv2.imread(file_path)
 
     face_detector = dlib.get_frontal_face_detector()
 
